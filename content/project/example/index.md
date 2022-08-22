@@ -1,41 +1,40 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+slides: example
+url_pdf: ""
+summary: Self-censorship is the practice of people withholding opinions or
+  information from their audience, self-censorship. Self-censorship can be
+  beneficial, from an individual’s perspective, when personal safety is at risk
+  in politically charged environments. Yet, when overall expression is limited,
+  self-censorship reduces the timely flow of critical information and the scope
+  for civic engagement, undermining the democratic process. In this project, I
+  study the social network underpinnings of self-censorship and propose ways in
+  which social media platforms can limit its extent.
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+url_slides: ""
+title: Self-censorship Reduction
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  filename: featured.png
+url_code: ""
 ---
+In Communication, often times we try to understand social phenomenon through what people talk about. However, a lot of information is hidden in what they choose not to talk about. This hidden information may help us understand the social dynamics better, especially in changing environments. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+My dissertation research thus focus on this practice of people withholding opinions or information from their audience, self-censorship. Self-censorship can be beneficial, from an individual’s perspective, when personal safety is at risk in politically charged environments. Yet, when overall expression is limited, self-censorship reduces the timely flow of critical information and the scope for civic engagement, undermining the democratic process. In this project, I study the social network underpinnings of self-censorship and propose ways in which social media platforms can limit its extent.     
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+One of the main reasons for self-censorship is people's uncertainty about the potential sensitivity of their statements or actions. On social media, when users can't access sensitive information, platform administrators can increase the users' uncertainty about a given topic's political sensitivity, leading to even higher degrees of self-censorship. How can users come across such withheld information and ultimately reduce their uncertainty, as well as their self-censorship?
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Existing studies in information science only provide contradicting answers. On one hand, communication studies have put forth that, under particular network structures, wisdom arises from crowds, with large groups making better judgments than small elites. On the other hand, several agent-based and empirical evidence point to the inherent ambiguity of connections for truth searching: better connected groups can indeed reach an agreement faster, regardless of the veracity of their agreement's content.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+As a result, I plan to build on these earlier insights and provide a comprehensive answer to the question: 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+*What kind of network structure and principles of interaction discourage the individual drive to self-censor?*Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
