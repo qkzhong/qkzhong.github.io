@@ -24,14 +24,14 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
-    icon: chart-line
+  - description: 80%
+    icon: java
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Java
+  - description: 70%
+    icon: github
     icon_pack: fas
-    name: Photography
+    name: Git
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
