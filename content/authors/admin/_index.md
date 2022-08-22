@@ -1,7 +1,7 @@
 ---
 title: Qiankun Zhong
 role: PhD Candidate in Communication
-avatar_filename: profile_fig.jpg
+avatar_filename: avatar.jpg
 bio: I study when and why individuals communicate, conceal, and collectively
   decide on which matters through the lens of cultural evolution and tools in
   computational social science.
