@@ -26,11 +26,11 @@ feature:
     name: Python
   - description: 95%
     icon: turtle
-    icon_pack: fab
+    icon_pack: fas
     name: Netlogo
   - description: 95%
     icon: database
-    icon_pack: fab
+    icon_pack: fas
     name: SQL
   - description: 80%
     icon: java
