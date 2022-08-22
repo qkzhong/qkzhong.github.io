@@ -14,34 +14,34 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/QiankunZhong
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=FuZIAjIAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/qkzhong
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/qiankun-zhong-113269118/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Davis
+    url: https://communication.ucdavis.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Communication
+      institution: University of California, Davis
+      year: 2023
+    - course: MA in Emerging Media Studies
+      institution: Boston University
+      year: 2018
+    - course: BA in Journalism
+      institution: Shandong University
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
 ---
 Qiankun Zhong is a PhD candidate of Communication at UC Davis Computational Communication Lab. Her research interests include cultural evolution, organizational communication, complex system, and collective actions. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< ref "https://docs.google.com/document/d/1P85ZeTw7pYIJdlNmsjAjMFkmRW_srfOF/edit?usp=sharing&ouid=113085611990547793299&rtpof=true&sd=true" "newtab" >}}CV{{< /staticref >}}.
