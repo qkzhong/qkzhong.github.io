@@ -1,6 +1,6 @@
 ---
 title: Five Thoughts on Modeling
-subtitle: Recently I attended the grad workshop of computational social science at SFI and met some amazing friends and the wonderful John Miller and Scott Page. In the short two weeks of time, I’ve learned from those great thinkers and thought through my own approach to modeling. Here are some of the things I just came to understand or now understand better:
+subtitle:
 
 # Summary for listings and search engines
 summary: Recently I attended the grad workshop of computational social science at SFI and met some amazing friends and the wonderful John Miller and Scott Page. In the short two weeks of time, I’ve learned from those great thinkers and thought through my own approach to modeling. Here are some of the things I just came to understand or now understand better.
