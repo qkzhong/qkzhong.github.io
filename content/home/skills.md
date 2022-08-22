@@ -22,7 +22,7 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: turtle
+  - icon: arrows-down-to-people
     icon_pack: fas
     name: Netlogo
   - icon: database
