@@ -6,9 +6,10 @@ bio: I study when and why individuals communicate, conceal, and collectively
   decide on which matters through the lens of cultural evolution and tools in
   computational social science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cultural Evolution
+  - Organizational Communication
+  - Collective Action
+  - Agent-based Model
 social:
   - icon: envelope
     icon_pack: fas
