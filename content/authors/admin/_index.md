@@ -48,5 +48,6 @@ Qiankun Zhong is a PhD candidate of Communication at UC Davis Computational Comm
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref  "/assets/media/qiankun_cv.pdf" >}}CV{{< /staticref >}}.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< ref "/assets/media/qiankun_cv.pdf" >}}Curriculum vitae
-[About]({{< ref "/assets/media/qiankun_cv" >}} "About Us")
+# {{< icon name="download" pack="fas" >}} Download my {{< ref  "/assets/media/qiankun_cv.pdf" >}}Curriculum vitae
+
+[About]({{< ref "assets/media/qiankun_cv.pdf" >}} "About Us")
