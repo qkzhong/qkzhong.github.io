@@ -19,25 +19,19 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-  - description: 95%
-    icon: python
+  - icon: python
     icon_pack: fab
     name: Python
-  - description: 95%
-    icon: turtle
+  - icon: turtle
     icon_pack: fas
     name: Netlogo
-  - description: 95%
-    icon: database
+  - icon: database
     icon_pack: fas
     name: SQL
-  - description: 80%
-    icon: java
+  - icon: java
     icon_pack: fab
     name: Java
-
-  - description: 70%
-    icon: github
+  - icon: github
     icon_pack: fab
     name: Git
     
