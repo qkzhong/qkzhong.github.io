@@ -26,11 +26,11 @@ feature:
     name: Python
   - description: 80%
     icon: java
-    icon_pack: fas
+    icon_pack: fab
     name: Java
   - description: 70%
     icon: github
-    icon_pack: fas
+    icon_pack: fab
     name: Git
     
 # Uncomment to use emoji icons.
