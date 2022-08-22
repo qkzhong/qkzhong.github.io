@@ -26,7 +26,7 @@ feature:
     name: Python
   - description: 95%
     icon: turtle
-    icon_pack: far
+    icon_pack: fas
     name: Netlogo
   - description: 95%
     icon: database

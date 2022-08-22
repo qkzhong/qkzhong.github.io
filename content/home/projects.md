@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 35
 
 title: Projects
 subtitle: ''
