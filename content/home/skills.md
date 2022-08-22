@@ -24,10 +24,19 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 95%
+    icon: turtle
+    icon_pack: fab
+    name: Netlogo
+  - description: 95%
+    icon: database
+    icon_pack: fab
+    name: SQL
   - description: 80%
     icon: java
     icon_pack: fab
     name: Java
+
   - description: 70%
     icon: github
     icon_pack: fab
