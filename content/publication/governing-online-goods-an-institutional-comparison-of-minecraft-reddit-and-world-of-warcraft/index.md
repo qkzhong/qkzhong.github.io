@@ -5,19 +5,12 @@ publication_types:
   - "1"
 authors:
   - Frey
-  - S.
   - Zhong
-  - Q.
   - Bulat
-  - B.
   - Weisman
-  - W.
   - Liu
-  - C.
   - Fujimoto
-  - F.
   - Wang
-  - H.
 doi: https://arxiv.org/abs/2202.01317
 publication: "Proceedings of The 25th ACM Conference On Computer- Supported
   Cooperative Work And Social Computing. "
