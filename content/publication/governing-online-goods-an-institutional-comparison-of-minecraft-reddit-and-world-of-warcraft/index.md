@@ -16,7 +16,7 @@ authors:
   - C.
   - Fujimoto
   - F.
-  - "& Wang"
+  - Wang
   - H.
 doi: https://arxiv.org/abs/2202.01317
 publication: "Proceedings of The 25th ACM Conference On Computer- Supported
