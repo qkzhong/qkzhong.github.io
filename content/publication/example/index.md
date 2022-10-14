@@ -10,7 +10,7 @@ authors:
   - Martin Hilbert
 
 
-date: '2022-08-31'
+date: '2022-08-31T00:00:00Z'
 doi: 'https://doi.org/10.3390/e24091185'
 
 # Schedule page publish date (NOT publication's date).
@@ -29,17 +29,15 @@ publication_short: In *Entropy*
 abstract: Institutions and cultures usually evolve in response to environmental incentives. However, sometimes institutional change occurs due to stochastic drivers beyond current fitness, including drift, path dependency, blind imitation, and complementary cooperation in fluctuating environments. Disentangling the selective and stochastic components of social system change enables us to identify the key features of long-term organizational development. Evolutionary approaches provide organizational science with abundant theories to demonstrate organizational evolution by tracking beneficial or harmful features. In this study, focusing on 20,000 Minecraft communities, we measure these drivers empirically using two of the most widely applied evolutionary models: the Price equation and the bet-hedging model. As a result, we find strong selection pressure on administrative and information rules, suggesting that their positive correlation with community fitness is the main reason for their frequency change. We also find that stochastic drivers decrease the average frequency of administrative rules. The result makes sense when viewed in the context of evolutionary bet-hedging. We show through the bet-hedging result that institutional diversity contributes to the growth and stability of rules related to information, communication, and economic behaviors.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Full Paper
-#   url: https://www.mdpi.com/1099-4300/24/9/1185
+ - name: Full Paper
+   url: https://www.mdpi.com/1099-4300/24/9/1185
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -51,8 +49,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Environmental changes over time cause changes in the number of communities but do not seem to change the overall relative proportions of rule types in the population, except for administrative rules. The Price equation assumes a constant correlation between population growth and the implementation of one type of rule. However, the correlation may vary over time in a fast-changing environment. The changing bandwidth of administrative rules in this figure demonstrates that various rules are influenced differently by environmental changes.'
+  image:featured.png
+  caption: ''
   focal_point: ''
   preview_only: false
 
