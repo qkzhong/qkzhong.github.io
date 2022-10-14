@@ -4,7 +4,12 @@ title: Quantifying the Selective, Stochastic, and Complementary Drivers of
 publication_types:
   - "2"
 authors:
-  - Qiankun
+  - Zhong
+  - Q.
+  - Frey
+  - S.
+  - "& Hilbert"
+  - M.
 abstract: "Institutions and cultures usually evolve in response to environmental
   incentives. However, sometimes institutional change occurs due to stochastic
   drivers beyond current fitness, including drift, path dependency, blind
