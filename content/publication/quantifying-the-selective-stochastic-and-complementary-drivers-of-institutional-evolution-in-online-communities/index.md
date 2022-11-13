@@ -10,7 +10,7 @@ authors:
   - S.
   - Hilbert
   - M.
-doi: https://www.mdpi.com/1099-4300/24/9/1185
+doi: https://doi.org/10.3390/e24091185
 publication: Entropy
 abstract: "Institutions and cultures usually evolve in response to environmental
   incentives. However, sometimes institutional change occurs due to stochastic
