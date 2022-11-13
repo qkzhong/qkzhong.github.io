@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Zhong
-  - Q. & Frey
+  - Q. Frey
   - S.
 doi: " https://doi.org/10.1038/s41598-022-23223-8"
 publication: Scientific Reports
