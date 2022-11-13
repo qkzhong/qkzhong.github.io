@@ -8,7 +8,7 @@ authors:
   - Q.
   - Frey
   - S.
-  - "& Hilbert"
+  - Hilbert
   - M.
 doi: https://www.mdpi.com/1099-4300/24/9/1185
 publication: Entropy
