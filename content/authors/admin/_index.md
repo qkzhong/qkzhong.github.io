@@ -46,4 +46,4 @@ highlight_name: true
 ---
 Qiankun Zhong is a PhD candidate of Communication at UC Davis Computational Communication Lab. Her research interests include cultural evolution, organizational communication, complex system, and collective actions. 
 
-{{< icon name="download" pack="fas" >}} Download my [CV](assets/media/qiankunzhong_cv.pdf)
+{{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/10dG8FNK49d6xTNLq5TRSUUfMqCsSi6fn/view?usp=sharing)
