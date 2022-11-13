@@ -40,11 +40,10 @@ education:
     - course: BA in Journalism
       institution: Shandong University
       year: 2011
-email: "qkzhong@ucdavis.edu"
+email: qkzhong@ucdavis.edu
 superuser: true
 highlight_name: true
 ---
 Qiankun Zhong is a PhD candidate of Communication at UC Davis Computational Communication Lab. Her research interests include cultural evolution, organizational communication, complex system, and collective actions. 
 
-{{< icon name="download" pack="fas" >}} Download my{{% staticref "cv.pdf" "newtab" %}} CV{{% /staticref %}}
-
+{{< icon name="download" pack="fas" >}} Download my [CV](assets/media/qiankunzhong_cv.pdf)
