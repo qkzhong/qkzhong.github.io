@@ -6,8 +6,8 @@ authors:
   - Zhong
   - Q. & Frey
   - S.
-doi: http://arxiv.org/abs/2009.04597.
-publication: upcoming
+doi: " https://doi.org/10.1038/s41598-022-23223-8"
+publication: Scientific Reports
 abstract: Understanding online communities requires an appreciation of both
   structure and culture. But basic questions remain difficult to pose. How do
   these facets interact and drive each other? Using data on the membership and
