@@ -11,7 +11,7 @@ authors:
   - Liu
   - Fujimoto
   - Wang
-doi: doi.acm.org?doi=3555191
+doi: http://doi.acm.org?doi=3555191
 publication: "Proceedings of The 25th ACM Conference On Computer- Supported
   Cooperative Work And Social Computing. "
 abstract: "Building a successful community means governing active populations
