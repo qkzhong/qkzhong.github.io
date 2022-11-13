@@ -8,7 +8,7 @@ authors:
   - Q.
   - Hilbert
   - M.
-  - "& Frey"
+  - Frey
   - S.
 doi: https://doi.org/10.1177/08944393211056501
 publication: Social Science Computer Review.
