@@ -35,11 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a post-doctoral researcher at the Center for Humans and Machines, Max Planck Institute for Human Development. I received my PhD in Communication from University of California, Davis, with a Designated Emphasis in Computational Social Science in 2023. I am interested in the interaction between institutions and culture in influencing cooperative behaviors and democratic processes, especially in the current media and AI environment. 
         
-        Please reach out to collaborate 😃
+        In my research, I use theories from communication and sociology with methods from computational social science to explain (1) the coevolution of culture and institutions among self-organized online communities, (2) the influence of culture and policy on individual cooperative behaviors, and (3) the evolution of AI technology and its influence on collective intelligence and social cooperation. 
+        
+        My research is rooted in the traditions of communication and sociology and tries to answer new questions that emerge from the current technological and media environment. My research appeared in journals and conference proceedings from various disciplines, including Scientific Reports, ACM CSCW, AAAI ICWSM, NPJ Complexity, Social Science Computer Review, and Entropy. 
+        
     design:
       columns: '1'
   - block: collection
