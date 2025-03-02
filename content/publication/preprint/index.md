@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "Institutional Preferences in the Laboratory"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Qiankun Zhong, Nori Jacoby, Ofer Tchernichovski, Seth Frey
+date: "2025-02-10"
+doi: "
+https://doi.org/10.48550/arXiv.2502.06748"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-02-10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,24 +15,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Institutional Preferences in the Laboratory"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Getting a group to adopt cooperative norms is an enduring challenge. But in real-world settings, individuals don't just passively accept static environments, they act both within and upon the social systems that structure their interactions. Should we expect the dynamism of player-driven changes to the "rules of the game" to hinder cooperation -- because of the substantial added complexity -- or help it, as prosocial agents tweak their environment toward non-zero-sum games? We introduce a laboratory setting to test whether groups can guide themselves to cooperative outcomes by manipulating the environmental parameters that shape their emergent cooperation process. We test for cooperation in a set of economic games that impose different social dilemmas. These games vary independently in the institutional features of stability, efficiency, and fairness. By offering agency over behavior along with second-order agency over the rules of the game, we understand emergent cooperation in naturalistic settings in which the rules of the game are themselves dynamic and subject to choice. The literature on transfer learning in games suggests that interactions between features are important and might aid or hinder the transfer of cooperative learning to new settings.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Cultural Evolution
+- Organizational Communication
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: 
+url_pdf: https://doi.org/10.48550/arXiv.2502.06748
+url_code: 
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
