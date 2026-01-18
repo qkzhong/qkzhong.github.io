@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: The 25th International Conference on Autonomous Agents and Multiagent Systems
-publication_short: In *AAMAS 2026*
+publication_short: AAMAS 2026
 abstract: Governance of social-ecological systems is a major challenge in social science. Game-theory frameworks such as common-pool resources games (CPR) provide a useful tool to understand the different components of cooperation and governance of this complex issue. Now with artificial intelligence and Large Language Models (LLMs) increasingly been used in social systems and information infrastructures, can we apply what has been learned in the 30 years of CPR studies to evolve cooperation among LLM agents?  We introduce a CPR simulation framework that removes explicit reward signals and embeds cultural-evolutionary mechanisms: social learning (adopting strategies and beliefs from successful peers) and costly punishment, grounded in Ostrom’s principles of resource governance. Agents also individually learn from the consequences of harvesting, monitoring, and punishing via environmental feedback, enabling norms to emerge endogenously. 
 
 # Summary. An optional shortened abstract.
