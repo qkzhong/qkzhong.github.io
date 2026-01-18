@@ -6,8 +6,7 @@ authors:
   - Y. Oswald
   - admin
 author_notes: []
-date: "2024-01-01T00:00:00Z"
-doi: ""
+date: "2026-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +20,7 @@ publication_types: ["article-journal"]
 publication: "Historical Social Research (revise and resubmit)"
 publication_short: ""
 
-abstract: ""
+abstract: "We develop an agent-based model to study the co-evolution of wealth inequality, biased perceptions of wealth, and their influence on wealth taxation and redistribution. The model integrates random multiplicative wealth dynamics, flat taxation with partial redistribution, and homophily-driven rewiring of social ties."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -29,17 +28,9 @@ summary: ""
 tags: []
 featured: false
 
-# links:
 # - name: ""
 #   url: ""
 url_pdf: ""
-# url_code: ""
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ""
-# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

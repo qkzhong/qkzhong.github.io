@@ -3,7 +3,6 @@ title: "Institutional Preferences in the Laboratory"
 authors:
 - Qiankun Zhong, Nori Jacoby, Ofer Tchernichovski, Seth Frey
 date: "2025-02-10"
-doi: "
 https://doi.org/10.48550/arXiv.2502.06748"
 
 # Schedule page publish date (NOT publication's date).
@@ -29,17 +28,8 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
   url: 
 url_pdf: https://doi.org/10.48550/arXiv.2502.06748
-url_code: 
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

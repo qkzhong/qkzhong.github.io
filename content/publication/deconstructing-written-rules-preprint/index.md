@@ -10,7 +10,6 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 date: "2022-06-01T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -32,11 +31,9 @@ summary: ""
 tags: []
 featured: false
 
-# links:
 # - name: ""
 #   url: ""
 url_pdf: "https://arxiv.org/pdf/2206.07992.pdf"
-url_source: "https://arxiv.org/abs/2206.07992"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

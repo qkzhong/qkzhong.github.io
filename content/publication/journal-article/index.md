@@ -5,7 +5,6 @@ authors:
 - Seth Frey
 author_notes: []
 date: "2022-11-08T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,17 +28,9 @@ tags:
 - Cultural similarity
 featured: false
 
-# links:
 # - name: ""
 #   url: ""
 url_pdf: "https://www.nature.com/articles/s41598-022-23223-8"
-# url_code: ""
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ""
-# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

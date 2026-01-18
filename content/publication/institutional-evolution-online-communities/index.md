@@ -6,7 +6,6 @@ authors:
   - M. Hilbert
 author_notes: []
 date: "2022-01-01T00:00:00Z"
-doi: "10.3390/e24091185"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,11 +27,9 @@ summary: ""
 tags: []
 featured: false
 
-# links:
 # - name: ""
 #   url: ""
 url_pdf: ""
-url_source: "https://doi.org/10.3390/e24091185"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

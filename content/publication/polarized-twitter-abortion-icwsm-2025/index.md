@@ -8,7 +8,6 @@ authors:
   - K. Lerman
 author_notes: []
 date: "2025-01-01T00:00:00Z"
-doi: "10.1609/icwsm.v19i1.35893"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,11 +29,9 @@ summary: ""
 tags: []
 featured: false
 
-# links:
 # - name: ""
 #   url: ""
 url_pdf: ""
-url_source: "https://doi.org/10.1609/icwsm.v19i1.35893"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
