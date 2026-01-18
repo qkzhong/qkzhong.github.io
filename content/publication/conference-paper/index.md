@@ -30,8 +30,7 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: The 25th International Conference on Autonomous Agents and Multiagent Systems
 publication_short: In *AAMAS 2026*
-
-abstract: Governance of social-ecological systems is a major challenge in social science. Game-theory frameworks such as common-pool resources games (CPR) provide a useful tool to understand the different components of cooperation and governance of this complex issue. Now with artificial intelligence and Large Language Models (LLMs) increasingly been used in social systems and information infrastructures, can we apply what has been learned in the 30 years of CPR studies to evolve cooperation among LLM agents? While previous studies have explored the emergence of cooperation in both richly contextualized simulations and simplified game-theoretic environments, most LLM systems featuring CPR games directly incentivize agents to cooperate with explicit rewards tied to the actions. In contrast, human cooperation often emerges without full visibility into payoffs and population, relying instead on heuristics, communication, and punishment. We introduce a CPR simulation framework that removes explicit reward signals and embeds cultural-evolutionary mechanisms: social learning (adopting strategies and beliefs from successful peers) and costly punishment, grounded in Ostrom’s principles of resource governance. Agents also individually learn from the consequences of harvesting, monitoring, and punishing via environmental feedback, enabling norms to emerge endogenously. We validate the simulation by reproducing key findings from existing studies on human behaviors. Building on this, we examine the evolution of LLM group norms across a 2 (resource-rich vs. resource-scarce) x 2 (altruistic group vs. selfish group) experiment, and compare how agentic societies comprised of different LLMs perform under these conditions. Our results reveal systematic model differences in sustaining cooperation and norm formation, positioning the framework as a rigorous testbed for studying emergent norms in mixed-motive LLM societies. This analysis can inform the design of AI systems deployed in social and organizational contexts, where alignment with cooperative norms is critical for stability, fairness, and effective governance of AI-mediated environments.
+abstract: Governance of social-ecological systems is a major challenge in social science. Game-theory frameworks such as common-pool resources games (CPR) provide a useful tool to understand the different components of cooperation and governance of this complex issue. Now with artificial intelligence and Large Language Models (LLMs) increasingly been used in social systems and information infrastructures, can we apply what has been learned in the 30 years of CPR studies to evolve cooperation among LLM agents?  We introduce a CPR simulation framework that removes explicit reward signals and embeds cultural-evolutionary mechanisms: social learning (adopting strategies and beliefs from successful peers) and costly punishment, grounded in Ostrom’s principles of resource governance. Agents also individually learn from the consequences of harvesting, monitoring, and punishing via environmental feedback, enabling norms to emerge endogenously. 
 
 # Summary. An optional shortened abstract.
 summary: We deign an LLM framework to evolve cooperative norm in common-pool reserouces games among AI agents.
@@ -70,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - []]
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
