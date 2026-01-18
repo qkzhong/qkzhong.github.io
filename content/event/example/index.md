@@ -50,4 +50,3 @@ url_pdf: ''
 projects: []
 ---
 
-{{< figure src="featured.jpg" caption="AI complement vs substitute schematic." >}}
