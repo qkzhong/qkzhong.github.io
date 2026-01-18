@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: []
-featured: false
+featured: true
 
 # - name: ""
 #   url: ""

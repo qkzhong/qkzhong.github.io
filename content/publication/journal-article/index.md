@@ -26,7 +26,7 @@ summary: "Institutional similarities in administrative and informational rules d
 tags:
 - Online communities
 - Cultural similarity
-featured: false
+featured: true
 
 # - name: ""
 #   url: ""
