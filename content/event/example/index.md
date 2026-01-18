@@ -1,24 +1,20 @@
 ---
-title: Example Talk
+title: "Group Selection as a Safeguard Against AI Substitution"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Research Talk
+event_url: ""
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: ""
+address: {}
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: "Research on AI complement vs substitute and long-run cultural variance."
+abstract: |-
+  Research has increasingly found that the reliance on Generative AI can lead to a reduction of collective variance and diversity, especially in creative tasks. This reduction of variance has already led to problems in model performance, including “model collapse” and hallucination. In this paper, we consider the long-term consequences of variance reduction in human cultural evolution and ask whether increasing reliance on Generative AI will lead to “cultural collapse”. We use an agent-based model to compare two cases of AI uses, Complement and Substitute, and show that compared to AI Complements, AI Substitutes can improve our cumulative learning and exploration in the short term, but are detrimental in the long run due to the greater influence on collective variance. Even if some people start with complementary AI, which maintains some variance, the performance boost provided by AI substitutes makes them more attractive to be adopted by the majority as the dominant strategy. As a result, we show that the danger of “culture collapse” not only resides in the reduction of variance caused by substituting human effort with AI, but also in its immediate boost of performance that allows it to be easily adopted. In response to this danger, we use multi-level selection as an evolutionary mechanism to promote the adoption of AI Complements as the long-term strategy. We show that when group structures and boundaries are strong, AI Complements can be selected for over AI Substitutes. Taken together, our results offer insights into the long-term and population-level effects of AI adoption and provide suggestions for policy regulation and organizational strategies in response to potential risks.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-01-01T13:00:00Z'
+date_end: '2024-01-01T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,35 +37,15 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+url_pdf: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+{{< figure src="featured.jpg" caption="AI complement vs substitute schematic." >}}
