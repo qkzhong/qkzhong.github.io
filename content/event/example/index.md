@@ -1,11 +1,13 @@
 ---
 title: "Group Selection as a Safeguard Against AI Substitution"
 
-event: Research Talk
+event: 76th Annual ICA Conference
 event_url: ""
 
-location: ""
-address: {}
+location: "Cape Town, South Africa"
+address:
+  city: Cape Town
+  country: South Africa
 
 summary: "Research on AI complement vs substitute and long-run cultural variance."
 abstract: |-
@@ -13,9 +15,9 @@ abstract: |-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-01T13:00:00Z'
-date_end: '2024-01-01T14:00:00Z'
-all_day: false
+date: '2026-06-04T00:00:00Z'
+date_end: '2026-06-08T23:59:59Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
