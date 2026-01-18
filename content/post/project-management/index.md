@@ -1,94 +1,23 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: "System Robustness and Censorship"
+summary: "How information control can trade off robustness and panic in crises."
+date: "2020-04-13"
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - Censorship
+  - Robustness
+  - Communication
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+I have an idea that comes from a biological phenomenon of system robustness. If the system does not detect and correct errors, accumulated error reduces performance. If the system is too sensitive to errors, it cannot remain robust.
 
-## Ideation
+During COVID-19, many governments used information control. If the news agency is an error-detection mechanism, then to maintain robustness and stability, the system may reduce sensitivity and control how much information people can access. Otherwise, panic could lead to hoarding and preempting resources.
 
-Hugo Blox supports a Markdown extension for mindmaps.
+If people do not get enough information, they cannot correctly perceive how dangerous the situation is, which can speed contagion and increase damage. Over time, the government may lose trust, which also reduces robustness.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+This suggests a need to model information control and its influence on individual behavior and collective patterns. The key question is the equilibrium amount of information a government will allow releasing to maintain robustness.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+Source: [Self-made Modeler](https://selfmademodeler.wordpress.com/)
