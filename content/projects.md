@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Papers
-      text: A selection of paper projects.
+      title: Workng Projects
+      text: I am working on the following projects in my research agenda.
       filters:
         folders:
           - project
