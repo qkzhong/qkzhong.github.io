@@ -21,7 +21,7 @@ publication_short: "Sci Rep"
 abstract: "Human organizations are driven by their rules and cultures. But the effects of rules and cultures on organizational development cannot be understood without untangling their effects on each other. People's values are contingent on how they have been enculturated within organizations. Conversely, their values may influence the organizations they join, particularly in online community settings, where users have thousands of organizations to choose from and exert selection pressure in favor of communities with favorable rules. Using longitudinal data on the rules systems of thousands of online communities, as well as the traffic of millions of users between them, we use techniques from network science to disentangle the relationship between cultural assimilation and institutional assimilation. We find that institutional similarities in administrative rules and informational rules drive cultural similarities."
 
 # Summary. An optional shortened abstract.
-summary: "Institutional similarities in administrative and informational rules drive cultural similarities among online communities."
+summary: "Institutional similarities in administrative and informational rules drive cultural similarities among 2000 online communities."
 
 tags:
 - Online communities

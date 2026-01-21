@@ -87,6 +87,6 @@ title: Qiankun Zhong
 # highlight_name: true
 ---
 
- Qiankun Zhong is a postdoc researcher at Center for Machines and Humans, Max Planck Institute for Human Development. Her research interests include cultural evolution, organizational communication, complex system, and collective actions.
+ Qiankun Zhong is a postdoc researcher at Center for Machines and Humans, Max Planck Institute for Human Development. Her research interests include cultural evolution, organizational communication, complex system, and collective actions. She uses cultural evolution theories to understand how the technological environment shapes human collective intelligence and cooperative behavior, especially in the current AI environment.
 
 <!-- # {{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/10dG8FNK49d6xTNLq5TRSUUfMqCsSi6fn/view?usp=sharing) -->
