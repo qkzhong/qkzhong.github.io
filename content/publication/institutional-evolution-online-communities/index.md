@@ -25,7 +25,7 @@ abstract: ""
 summary: "Using Price Equation to quantify the selective forces that drive institutional evolution among Online Communities"
 
 tags: []
-featured: true
+featured: false
 
 # - name: ""
 #   url: ""
