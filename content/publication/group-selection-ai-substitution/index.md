@@ -2,6 +2,9 @@
 title: "Group Selection as a Safeguard against AI Substitution"
 authors:
   - admin
+  - Thomas Eisenmann
+  - Julian Garcia
+  - Iyad Rahwan
 author_notes: []
 date: "2026-06-01T00:00:00Z"
 
@@ -23,8 +26,8 @@ abstract: "Reliance on generative AI can reduce cultural variance and diversity,
 summary: "Use cultural evolution and evolutionary game theory to offer solutions to AI Substitution."
 
 tags:   
-  - Generative AI
   - Cultural Evolution
+  - Generative AI
   - Evolutionary Game Theory
 featured: true
 
