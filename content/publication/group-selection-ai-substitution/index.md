@@ -56,4 +56,4 @@ projects: ["patent-cultural-evolution"]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-{{< figure src="featured.png" caption="" >}}
+{{< figure src="featured2.png" caption="" >}}
