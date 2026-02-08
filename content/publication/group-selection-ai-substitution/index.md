@@ -22,7 +22,10 @@ abstract: "Reliance on generative AI can reduce cultural variance and diversity,
 # Summary. An optional shortened abstract.
 summary: "Use cultural evolution and evolutionary game theory to offer solutions to AI Substitution."
 
-tags: []
+tags:   
+  - Generative AI
+  - Cultural Evolution
+  - Evolutionary Game Theory
 featured: true
 
 # - name: ""

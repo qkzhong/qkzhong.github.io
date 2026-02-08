@@ -22,7 +22,7 @@ publication_short: "Entropy"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Using Price Equation to quantify the selective forces that drive institutional evolution among Online Communities"
+summary: "Using Price Equation to quantify the selective forces that drive institutional evolution among Online Communities."
 
 tags: []
 featured: false
